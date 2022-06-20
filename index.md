@@ -10,7 +10,7 @@ Developer: Ali AOUF
 | Features  | value                                                                 |
 | --------- | --------------------------------------------------------------------- |
 | Authors   | [Authors.md](https://github.com/40uf411/SillyBot/main/AUTHORS.md)     |
-| Release   | 0.2 (20.10)                                                           |
+| Release   | 0.1 (22.06)                                                           |
 | License   | [GPL](https://github.com/40uf411/SillyBot/main/LICENSE)               |
 | Tracker   | [40uf411/SillyBot/Issues](https://github.com/40uf411/SillyBot/issues) |
 | Source    | [Github](http://github.com/40uf411/SillyBot)                          |
