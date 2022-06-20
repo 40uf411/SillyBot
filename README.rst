@@ -1,5 +1,5 @@
 SillyBot: fastest way to develop scrapping bots
-=================================
+===============================================
 
 SillyBot is a wrapper for the selenium library
 
@@ -8,17 +8,17 @@ Developer: Ali AOUF
 +-------------+-------------------------------------------------------------------------+
 | Features    | value                                                                   |
 +=============+=========================================================================+
-| Authors     | `Authors.md <https://github.com/40uf411/SillyBot/master/AUTHORS.md>`__   |
+| Authors     | `Authors.md <https://github.com/40uf411/SillyBot/master/AUTHORS.md>`__  |
 +-------------+-------------------------------------------------------------------------+
 | Release     | 0.1 (22.06)                                                             |
 +-------------+-------------------------------------------------------------------------+
-| License     | `GPL 2.0 <https://github.com/40uf411/SillyBot/master/LICENSE>`__         |
+| License     | `GPL 2.0 <https://github.com/40uf411/SillyBot/master/LICENSE>`__        |
 +-------------+-------------------------------------------------------------------------+
-| Tracker     | `40uf411/SillyBot/Issues <https://github.com/40uf411/SillyBot/issues>`__   |
+| Tracker     | `40uf411/SillyBot/Issues <https://github.com/40uf411/SillyBot/issues>`  |
 +-------------+-------------------------------------------------------------------------+
-| Source      | `Github <http://github.com/40uf411/SillyBot>`__                          |
+| Source      | `Github <http://github.com/40uf411/SillyBot>`__                         |
 +-------------+-------------------------------------------------------------------------+
-| Feedbacks   | `Comments <https://github.com/40uf411/SillyBot/>`__                      |
+| Feedbacks   | `Comments <https://github.com/40uf411/SillyBot/>`__                     |
 +-------------+-------------------------------------------------------------------------+
 | Accounts    | [@Twitter](https://twitter.com/40uf411))                                |
 +-------------+-------------------------------------------------------------------------+
