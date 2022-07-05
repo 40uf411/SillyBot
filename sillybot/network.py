@@ -1,3 +1,8 @@
+#TODO: Add whiteboard functionality
+#TODO: Add communication channels
+#TODO: Add a way to send orders to the bot
+#TODO: Add status monitoring
+
 import threading
 from sillybot.bot import Bot
 
